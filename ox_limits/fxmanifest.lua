@@ -20,8 +20,6 @@ client_scripts {
 
 server_scripts {
     '@oxmysql/lib/MySQL.lua',
-    'server/utils.lua',
-    'server/limits.lua',
     'server/looting.lua',
     'server/robbery.lua',
     'server/init.lua'
